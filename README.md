@@ -39,5 +39,11 @@ I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KASSAS20&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
