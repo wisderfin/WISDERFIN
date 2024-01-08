@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me
 
-I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SAMARA.
 
 - :seedling: I am exploring the topic of technical content writing.
 
