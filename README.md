@@ -42,9 +42,9 @@ I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KASSAS20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KASSAS20&layout=compact&demo)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASSAS20&show_icons=true&theme=demo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASSAS20&show_icons=true&theme=vision-friendly-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KASSAS20&theme=dark&background=000000)](https://git.io/streak-stats)
 
