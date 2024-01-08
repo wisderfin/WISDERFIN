@@ -46,7 +46,7 @@ I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASSAS20&show_icons=true&theme=vision-friendly-dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KASSAS20&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KASSAS20&show)]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KASSAS20&theme=dark&background=000000)](https://git.io/streak-stats)
 
