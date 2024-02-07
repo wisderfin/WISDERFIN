@@ -3,8 +3,8 @@
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=KASSAS20&style=flat-square&color=blue" alt=""/>
+  <a href="https://wakatime.com/@a6d5c215-93d5-42f7-b155-f6ab879c9e83"><img src="https://wakatime.com/badge/user/a6d5c215-93d5-42f7-b155-f6ab879c9e83.svg" alt="Total time coded since Jun 14 2023" /></a>
 </div>
-<a href="https://wakatime.com/@a6d5c215-93d5-42f7-b155-f6ab879c9e83"><img src="https://wakatime.com/badge/user/a6d5c215-93d5-42f7-b155-f6ab879c9e83.svg" alt="Total time coded since Jun 14 2023" /></a>
 <h1 id="header" align="center">
   Hey, everybody.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
