@@ -13,15 +13,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me
-
-I am a Python and C programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SAMARA.
-
-- :seedling: I am exploring the topic of technical content writing.
-
-- :zap: In my free time I solve problems on various resources and read technical articles.
-
-
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KASSAS20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
