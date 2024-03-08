@@ -21,7 +21,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WISDERFIN&theme=dark&background=000000)](vision-friendly-dark)   
   
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kassas20)](https://github.com/kassas20/github-readme)
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kassas20)](https://github.com/wisderfin/github-readme)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WISDERFIN&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
   
