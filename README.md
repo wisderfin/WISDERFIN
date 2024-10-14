@@ -11,11 +11,6 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
-  
-  <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=KASSAS20&style=flat-square&color=blue" alt=""/>
-    <a href="https://wakatime.com/@a6d5c215-93d5-42f7-b155-f6ab879c9e83"><img src="https://wakatime.com/badge/user/a6d5c215-93d5-42f7-b155-f6ab879c9e83.svg" alt="Total time coded since Jun 14 2023" /></a>
-  </div>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=I+like+to+learn+new+things.;I+love+Python+with+all+my+heart.)](https://git.io/typing-svg)  
   
