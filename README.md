@@ -12,7 +12,7 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=I+like+to+learn+new+things.;I+love+Python+with+all+my+heart.; I'm use arch btw)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=I+like+to+learn+new+things.;I+love+Python+with+all+my+heart.; I am use arch btw)](https://git.io/typing-svg)  
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WISDERFIN&theme=dark&background=000000)](vision-friendly-dark)   
   
