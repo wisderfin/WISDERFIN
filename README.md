@@ -3,8 +3,7 @@
   ![img](https://github.com/wisderfin/WISDERFIN/blob/main/header.png)
   
   <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh6bWppeW93dXRjNGpheGdxY3p2dGExdzJlczkzN2Z5ZDZocmw2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-  </div>
+    
 
   ![PYTHON](https://img.shields.io/badge/python-2E0004?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![SQLITE](https://img.shields.io/badge/sqlite-2E0004.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -36,9 +35,9 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WISDERFIN&theme=dark&background=000000)](vision-friendly-dark)   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WISDERFIN&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/wisderfin?theme=radical&font=Rubik)
 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VnN2c3aWYzYTh2M21ldmVnbzJoY3I1bG1ubmNiODlmM2ZhamR5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.webp" width="200"/>
+  </div>
 </div>
-
 
