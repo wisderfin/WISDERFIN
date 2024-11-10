@@ -14,10 +14,8 @@
   ![telebot](https://img.shields.io/badge/telebot-2E0004.svg?&style=for-the-badge&logo=telegram&logoColor=white")
   ![pydantic](https://img.shields.io/badge/pydantic-2E0004.svg?&style=for-the-badge&logo=pydantic&logoColor=white")
   ![docker](https://img.shields.io/badge/docker-2E0004.svg?&style=for-the-badge&logo=docker&logoColor=white")
-  ![REDgitS](https://img.shields.io/badge/git-2E0004.svg?&style=for-the-badge&logo=git&logoColor=white")
-  ![REDIS](https://img.shields.io/badge/redis-2E0004.svg?&style=for-the-badge&logo=redis&logoColor=white")
-  ![REDIS](https://img.shields.io/badge/redis-2E0004.svg?&style=for-the-badge&logo=redis&logoColor=white")
-  ![REDIS](https://img.shields.io/badge/redis-2E0004.svg?&style=for-the-badge&logo=redis&logoColor=white")
+  ![git](https://img.shields.io/badge/git-2E0004.svg?&style=for-the-badge&logo=git&logoColor=white")
+
   
   
   
