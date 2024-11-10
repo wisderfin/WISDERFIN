@@ -29,7 +29,7 @@
 ![DATAGRIP](https://img.shields.io/badge/datagrip-2E0004.svg?&style=for-the-badge&logo=DataGrip&logoColor=white")
  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=I+like+to+learn+new+things.;I+love+Python+with+all+my+heart.;I+use+arch+btw)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&random=false&width=435&lines=I+like+to+learn+new+things.;I+love+Python+with+all+my+heart.;I+use+arch+btw.)](https://git.io/typing-svg)  
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WISDERFIN&theme=dark&background=000000)](vision-friendly-dark)   
   
